@@ -1,0 +1,37 @@
+---
+title: "Página web de Rolando"
+description: |
+  ¡Bienvendio a este sitio! Actualmente en construcción.
+site: distill::distill_website
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+<html>
+  <head>
+    <title>My GitHub Pages Site</title>
+  </head>
+  <body>
+    <h1>¡Hey, qué tal! </h1>
+    <p>¡Bienevenido a mi página de GitHub!</p>
+    
+    SITIO EN CONSTRUCCION
+    
+    ¡BUEN DIA!
+    
+    ROLANDO TREJO 
+  </body>
+</html>

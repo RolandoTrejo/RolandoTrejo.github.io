@@ -1,0 +1,11 @@
+---
+title: "Acerca de esta página web"
+description: |
+  Este es mi sitio web personal donde estaré compartiendo parte de mis experiencias estudiando y trabajando en el campo de la biología.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

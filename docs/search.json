@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Acerca de esta página web",
+      "description": "Este es mi sitio web personal donde estaré compartiendo parte de mis experiencias estudiando y trabajando en el campo de la biología.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-04-17T16:16:04-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Página web de Rolando",
+      "description": "¡Bienvendio a este sitio! Actualmente en construcción.\n",
+      "author": [],
+      "contents": "\n\n\n\nMy GitHub Pages Site\n\n¡Hey, qué tal!\n\n\n¡Bienevenido a mi página de GitHub!\n\nSITIO EN CONSTRUCCION\n¡BUEN DIA!\nROLANDO TREJO\n\n\n\n\n\n",
+      "last_modified": "2022-04-17T16:16:30-04:00"
+    },
+    {
+      "path": "Trejo.html",
+      "title": "Página web de Rolando",
+      "description": "Sitio en construcción.\n",
+      "author": [],
+      "contents": "\nSoy un estudiante de doctorado en ciencias biológicas de la Universidad de Montreal. Actualmente estudio la revegetalización de suelos desnudos con especies herbáceas y su rol en la sucesión de árboles.\n\n\n\n",
+      "last_modified": "2022-04-17T16:16:16-04:00"
+    }
+  ],
+  "collections": []
+}
