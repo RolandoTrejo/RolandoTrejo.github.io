@@ -1,7 +1,9 @@
 ---
-title: "Acerca de esta página web"
+title: "Propósito // À propos"
 description: |
   Este es mi sitio web personal donde estaré compartiendo parte de mis experiencias estudiando y trabajando en el campo de la biología.
+  
+  Ceci est mon site personnel où je partagerai certaines de mes expériences d'études et de travail dans le domaine de la biologie.
 ---
 
 ```{r setup, include=FALSE}

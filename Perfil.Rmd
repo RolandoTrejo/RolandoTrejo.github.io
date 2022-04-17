@@ -1,0 +1,22 @@
+---
+name: "."
+title: "Página web // Site web de Rolando"
+description: |
+    Sitio en construcción // Site en construction
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Inicio // Accueil"
+      href: index.html
+    - text: "Propósito // À propos"
+      href: about.html
+    - text: "Perfil // Profil"   # add
+      href: Perfil.html           # add
+output: distill::distill_article
+---
+
+Soy un estudiante de doctorado en ciencias biológicas de la Universidad de Montreal.
+Actualmente estudio la revegetalización de suelos desnudos con especies herbáceas y su rol en la sucesión de árboles.
+
+Je suis étudiante au doctorat en sciences biologiques à l'Université de Montréal.
+Je suis interesé à l'étude de l'ecologie végétale. Mes travaux de recherche actuels se penchent sur la végétalisation des sols mis à nus avec des espèces herbacées et leur rôle dans la succession des arbres.

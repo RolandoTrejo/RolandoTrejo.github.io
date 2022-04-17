@@ -1,12 +1,14 @@
 name: "."
-title: "Página web de Rolando"
+title: "Página web // Site web de Rolando"
 description: |
-  Sitio en construcción
+  Sitio en construcción // Site en construction
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Inicio // Accueil"
       href: index.html
-    - text: "About"
+    - text: "Propósito // À propos"
       href: about.html
+    - text: "Perfil // Profil"              
+      href: Perfil.html
 output: distill::distill_article

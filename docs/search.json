@@ -2,27 +2,27 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "Acerca de esta página web",
-      "description": "Este es mi sitio web personal donde estaré compartiendo parte de mis experiencias estudiando y trabajando en el campo de la biología.",
+      "title": "Propósito // À propos",
+      "description": "Este es mi sitio web personal donde estaré compartiendo parte de mis experiencias estudiando y trabajando en el campo de la biología.\n\nCeci est mon site personnel où je partagerai certaines de mes expériences d'études et de travail dans le domaine de la biologie.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-04-17T16:16:04-04:00"
+      "last_modified": "2022-04-17T19:48:06-04:00"
     },
     {
       "path": "index.html",
-      "title": "Página web de Rolando",
-      "description": "¡Bienvendio a este sitio! Actualmente en construcción.\n",
+      "title": "Página web // Site web de Rolando",
+      "description": "¡Bienvendio a este sitio! Actualmente en construcción //\n\nBienvenue sur ce site ! En construction\n",
       "author": [],
-      "contents": "\n\n\n\nMy GitHub Pages Site\n\n¡Hey, qué tal!\n\n\n¡Bienevenido a mi página de GitHub!\n\nSITIO EN CONSTRUCCION\n¡BUEN DIA!\nROLANDO TREJO\n\n\n\n\n\n",
-      "last_modified": "2022-04-17T16:16:30-04:00"
+      "contents": "\n\n\n\nMy GitHub Pages Site\n\n¡Hey, qué tal! // Bonjour! ça va?\n\n\n¡Bienevenido a esta página! // Bienvenue sur cette page!\n\nSITIO EN CONSTRUCCION // SITE EN CONSTRUCTION\n¡BUEN DIA! // BONNE JOURNÉE\nROLANDO TREJO\n\n\n\n\n\n",
+      "last_modified": "2022-04-17T19:52:14-04:00"
     },
     {
-      "path": "Trejo.html",
-      "title": "Página web de Rolando",
-      "description": "Sitio en construcción.\n",
+      "path": "Perfil.html",
+      "title": "Página web // Site web de Rolando",
+      "description": "Sitio en construcción // Site en construction\n",
       "author": [],
-      "contents": "\nSoy un estudiante de doctorado en ciencias biológicas de la Universidad de Montreal. Actualmente estudio la revegetalización de suelos desnudos con especies herbáceas y su rol en la sucesión de árboles.\n\n\n\n",
-      "last_modified": "2022-04-17T16:16:16-04:00"
+      "contents": "\nSoy un estudiante de doctorado en ciencias biológicas de la Universidad de Montreal. Actualmente estudio la revegetalización de suelos desnudos con especies herbáceas y su rol en la sucesión de árboles.\nJe suis étudiante au doctorat en sciences biologiques à l’Université de Montréal. Je suis interesé à l’étude de l’ecologie végétale. Mes travaux de recherche actuels se penchent sur la végétalisation des sols mis à nus avec des espèces herbacées et leur rôle dans la succession des arbres.\n\n\n\n",
+      "last_modified": "2022-04-17T19:48:17-04:00"
     }
   ],
   "collections": []

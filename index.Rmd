@@ -1,7 +1,10 @@
 ---
-title: "Página web de Rolando"
+title: "Página web // Site web de Rolando"
 description: |
-  ¡Bienvendio a este sitio! Actualmente en construcción.
+  ¡Bienvendio a este sitio! Actualmente en construcción //
+  
+  Bienvenue sur ce site ! En construction
+  
 site: distill::distill_website
 
 ---
@@ -25,12 +28,12 @@ knitr::opts_chunk$set(echo = FALSE)
     <title>My GitHub Pages Site</title>
   </head>
   <body>
-    <h1>¡Hey, qué tal! </h1>
-    <p>¡Bienevenido a mi página de GitHub!</p>
+    <h1>¡Hey, qué tal! // Bonjour! ça va? </h1>
+    <p>¡Bienevenido a esta página! // Bienvenue sur cette page! </p>
     
-    SITIO EN CONSTRUCCION
+    SITIO EN CONSTRUCCION // SITE EN CONSTRUCTION
     
-    ¡BUEN DIA!
+    ¡BUEN DIA! // BONNE JOURNÉE
     
     ROLANDO TREJO 
   </body>
