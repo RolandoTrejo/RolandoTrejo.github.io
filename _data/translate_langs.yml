@@ -2,7 +2,7 @@
 # langs refer to https://cloud.google.com/translate/docs/languages
 
 - lang: fr
-  img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+  img: https://icons.iconarchive.com/icons/wikipedia/flags/1024/CA-QC-Quebec-Flag-icon.png
   text: French
 
 - lang: en
