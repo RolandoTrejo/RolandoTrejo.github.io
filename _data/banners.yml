@@ -1,12 +1,12 @@
 # Banners
-- title: "Banner 1"
+- title: ""
   image: "/assets/images/banners/home.jpeg"
   description: "Downhill ski,Mont-Tremblant"
 
-- title: "Banner 2"
+- title: ""
   image: "/assets/images/banners/Pin.jpg"
   description: "Parc national d'Aiguebelle"
   
-- title: "Banner 3"
+- title: ""
   image: "/assets/images/banners/Serres.jpg"
   description: "Acer rubrum greenhouse experiment, Montréal"
