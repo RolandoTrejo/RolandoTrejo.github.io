@@ -638,6 +638,18 @@ html {
       }
     }
 
+.banner-slider {
+  /* Add styles to position the slider at the top */
+  position: relative;
+  /* Add any other necessary styles */
+}
+
+.banner-item {
+  /* Add styles for individual banner items */
+  /* For example, you can set a fixed height for uniform appearance */
+  height: 300px;
+  /* Add any other necessary styles */
+}
     .post-subtitle {
       @include relative-font-size(1.525);
       color: #ffffffcc;
