@@ -181,17 +181,6 @@ yat:
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
-
-banners:
-- image: /assets/images/banners/home.jpeg
-  title: My First Banner
-  text: This is my first banner.
-- image: /assets/images/banners/Pin.jpeg
-  title: My Second Banner
-  text: This is my second banner.
-- image: /assets/images/banners/Serres.jpeg
-  title: My third Banner
-  text: This is my third banner.
   
 # Excerpt size setting
 # excerpt_size: 350
