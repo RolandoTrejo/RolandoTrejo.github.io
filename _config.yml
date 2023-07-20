@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My personal webpage
+title: Rolando Trejo
 email: r.t.p.montreal@domain.com
 author: Rolando Trejo
 
@@ -182,6 +182,17 @@ yat:
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
+banners:
+- image: /assets/images/banners/home.jpeg
+  title: My First Banner
+  text: This is my first banner.
+- image: /assets/images/banners/Pin.jpeg
+  title: My Second Banner
+  text: This is my second banner.
+- image: /assets/images/banners/Serres.jpeg
+  title: My Second Banner
+  text: This is my third banner.
+  
 # Excerpt size setting
 # excerpt_size: 350
 

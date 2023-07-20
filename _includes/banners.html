@@ -1,0 +1,9 @@
+<div class="banners">
+  {% for banner in site.banners %}
+    <div class="banner">
+      <img src="{{ banner.image }}" alt="{{ banner.title }}">
+      <h2>{{ banner.title }}</h2>
+      <p>{{ banner.text }}</p>
+    </div>
+  {% endfor %}
+</div>
