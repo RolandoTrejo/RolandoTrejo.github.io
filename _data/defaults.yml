@@ -1,7 +1,8 @@
 home:
   heading: "Postdoctoral fellow"
   subheading: |
-          Département Science et technologie, 
-          TÉLUQ, Université du Québec,
-          Montreal, QC, Canada
+          <div>Département Science et technologie,</div> 
+          <div>TÉLUQ, Université du Québec,</div>
+          <div>Montreal, QC, Canada</div>
   banner: "Your image url"
+

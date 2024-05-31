@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rolando Trejo
+title: Rolando Trejo-Pérez
 email: rolando.trejo.perez@umontreal.ca
-author: Rolando Trejo
+author: Rolando Trejo-Pérez
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
