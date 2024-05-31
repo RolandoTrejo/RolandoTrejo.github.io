@@ -15,11 +15,14 @@
 
     {%- include extensions/click-to-top.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <h2>{{ home.heading }}</h2>
+    <div>{{ home.subheading | newline_to_br | strip_html }}</div>
+    <img src="{{ home.banner }}" alt="Banner Image">
+    {{ content }}
+  </div>
+</main>
 
     {%- include views/footer.html -%}
 
