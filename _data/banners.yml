@@ -1,17 +1,5 @@
 # Banners
 - title: "Postdoctoral fellow"
-  image: "/assets/images/banners/Mont.jpeg"
-  description: "Downhill ski, Mont-Tremblant"
-  
-- title: "Postdoctoral fellow"
-  image: "/assets/images/banners/Pin.jpg"
-  description: "Parc national d'Aiguebelle"
-  
-- title: "Postdoctoral fellow"
-  image: "/assets/images/banners/Serres.jpg"
-  description: "Acer rubrum greenhouse experiment, Montréal"
-  
-- title: "Postdoctoral fellow"
   image: "/assets/images/banners/home.jpg"
   description: "SBL"
   
