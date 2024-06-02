@@ -7,8 +7,10 @@
 
     {%- include views/header.html -%}
     
-    <!-- Include the slideshow -->
-    {%- include slideshow.html -%}
+    <!-- Include the slideshow if banners are defined -->
+    {% if page.banners %}
+      {%- include slideshow.html -%}
+    {% endif %}
 
     {%- include views/banner.html -%}
 
