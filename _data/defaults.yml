@@ -4,4 +4,6 @@ home:
     Département Science et technologie,
     TÉLUQ, Université du Québec,
     Montreal, QC, Canada
-  banner: "Your image url"
+  banners:
+    - "/assets/images/banners/home.jpg"
+    - "/assets/images/banners/image1.jpg"
