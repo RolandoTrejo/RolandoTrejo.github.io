@@ -1,12 +1,12 @@
 # Banners
-- title: "Slide 1"
-  image: "/assets/images/slideshow/image1.jpeg"
-  description: "Description for slide 1"
+- title: "Banner 1"
+  image: "/assets/images/slideshow/image1.jpg"
+  description: "Description for image 1"
 
-- title: "Slide 2"
+- title: "Banner 2"
   image: "/assets/images/slideshow/image2.jpg"
-  description: "Description for slide 2"
+  description: "Description for image 2"
 
-- title: "Slide 3"
+- title: "Banner 3"
   image: "/assets/images/slideshow/image3.jpg"
-  description: "Description for slide 3"
+  description: "Description for image 3"
