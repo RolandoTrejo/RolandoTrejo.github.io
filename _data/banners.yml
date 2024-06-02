@@ -1,12 +1,8 @@
 # Banners
 - title: ""
-  image: ""
-  description: "After six years of working on my PhD, I finally submitted my thesis. I have now embarked on a new research adventure at TÉLUQ University, Université du Québec. I am conducting exciting research in the Forest Ecosystem Modeling Lab of Elise Filotas and the iForêt Lab of Nicolas Bélanger."
-  
-- title: ""
   image: "/assets/images/banners/Mont.jpeg"
   description: "Downhill ski, Mont-Tremblant"
-
+  
 - title: ""
   image: "/assets/images/banners/Pin.jpg"
   description: "Parc national d'Aiguebelle"
@@ -14,3 +10,15 @@
 - title: ""
   image: "/assets/images/banners/Serres.jpg"
   description: "Acer rubrum greenhouse experiment, Montréal"
+  
+- title: ""
+  image: "/assets/images/banners/home.jpg"
+  description: "SBL"
+  
+- title: ""
+  image: "/assets/images/banners/image1.jpg"
+  description: "Acer rubrum roots"
+  
+- title: ""
+  image: "/assets/images/banners/image2.jpeg"
+  description: "Oregon"
