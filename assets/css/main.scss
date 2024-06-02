@@ -7,6 +7,7 @@
   position: relative;
   max-width: 1000px;
   margin: auto;
+  margin-bottom: 20px; /* Add some space between the slideshow and main content */
 }
 
 .mySlides {
@@ -33,6 +34,12 @@
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
 }
+
+/* Ensure the main content has some top margin */
+.main-content {
+  margin-top: 20px;
+}
+
 // Default theme colors
 $theme-colors: (
   "coolblack": #090a0b,

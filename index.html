@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<!-- Slideshow container -->
+<!-- Slideshow container at the top -->
 <div class="slideshow-container">
   {% for banner in site.data.banners %}
     <div class="mySlides fade">
@@ -30,3 +30,8 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
+
+<!-- Main content of the page -->
+<div class="main-content">
+  {{ content }}
+</div>
