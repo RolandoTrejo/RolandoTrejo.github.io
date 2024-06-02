@@ -4,6 +4,8 @@ home:
     Département Science et technologie,
     TÉLUQ, Université du Québec,
     Montreal, QC, Canada
+  subheading2: |
+    This is the second subheading. You can add more information or details here.
   banners:
     - "/assets/images/banners/home.jpg"
     - "/assets/images/banners/image1.jpg"
