@@ -1,27 +1,52 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
   {%- include head.html -%}
-
+  <link rel="stylesheet" href="/assets/css/main.css">
   <body>
-
     {%- include views/header.html -%}
-
-    {%- include views/banner.html -%}
-
     {%- include extensions/hashlocate.html -%}
-
     {%- include extensions/theme-toggle.html -%}
-
     {%- include extensions/click-to-top.html -%}
 
-<main class="page-content" aria-label="Content">
-  <div class="wrapper">
-    {{ content }}
-  </div>
-</main>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+
+        <!-- Slideshow container -->
+        <div class="slideshow-container">
+          <div class="mySlides fade">
+            <img src="/assets/images/slideshow/image1.jpg" style="width:100%">
+          </div>
+          <div class="mySlides fade">
+            <img src="/assets/images/slideshow/image2.jpg" style="width:100%">
+          </div>
+          <div class="mySlides fade">
+            <img src="/assets/images/slideshow/image3.jpg" style="width:100%">
+          </div>
+          <!-- Add more images as needed -->
+        </div>
+
+      </div>
+    </main>
 
     {%- include views/footer.html -%}
 
+    <!-- Slideshow script -->
+    <script>
+      let slideIndex = 0;
+      showSlides();
+
+      function showSlides() {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {slideIndex = 1}
+        slides[slideIndex-1].style.display = "block";
+        setTimeout(showSlides, 5000); // Change image every 5 seconds
+      }
+    </script>
   </body>
 </html>
