@@ -1,37 +1,19 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
 title: Home
+banner: "/assets/images/banners/home.jpeg"
 ---
-
-<!-- Slideshow container at the top -->
-<div class="slideshow-container">
+<!--banner: "/assets/images/banners/home.jpeg"-->
+<!-- Assuming you want to display the banners in a slider or a carousel -->
+<div class="banner-slider">
   {% for banner in site.data.banners %}
-    <div class="mySlides fade">
+    <div class="banner-item">
       <h2>{{ banner.title }}</h2>
-      <img src="{{ banner.image }}" style="width:100%">
+      <img src="{{ banner.image }}" alt="{{ banner.title }}">
       <p>{{ banner.description }}</p>
     </div>
   {% endfor %}
-</div>
-
-<script>
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
-}
-</script>
-
-<!-- Main content of the page -->
-<div class="main-content">
-  {{ content }}
 </div>
