@@ -215,7 +215,7 @@ header_pages:
   - index.html
   - about.html
   - publications.html
-  - blog.html
+  - archives.html
   - CV.html
 
 # Build settings
