@@ -1,9 +1,20 @@
 # Banners
-- title: "Postdoctoral fellow"
+- title: ""
   image: "/assets/images/banners/home.jpg"
-  description: "Biology station of Laurentides"
+  description: "Fagus trees, Biology station of Laurentides"
   
-- title: "Postdoctoral fellow"
+- title: ""
   image: "/assets/images/banners/image1.jpg"
-  description: "Acer rubrum roots"
+  description: "Acer trees, Montreal Botanical Garden"
 
+- title: ""
+  image: "/assets/images/banners/image2.jpg"
+  description: "Herbaceous cover diversity experiment, Varennes"
+  
+- title: ""
+  image: "/assets/images/banners/image3.jpg"
+  description: "Achillea vs Acer, Varennes"
+
+- title: ""
+  image: "/assets/images/banners/image4.jpg"
+  description: "Salix microcutting experiment, Varennes"
