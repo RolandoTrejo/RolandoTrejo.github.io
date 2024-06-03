@@ -211,6 +211,13 @@ yat:
 #   theme: "github-light"
 #   follow_site_theme: true
 
+header_pages:
+  - index.html
+  - about.html
+  - publications.html
+  - blog.html
+  - CV.html
+
 # Build settings
 # highlighter: none
 markdown: kramdown
