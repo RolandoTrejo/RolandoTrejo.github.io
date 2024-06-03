@@ -224,16 +224,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jekyll-toc
-# TOC settings
-toc:
-  min_level: 2
-  max_level: 6
-  no_toc_section_class: 'no_toc_section'
-  list_number: true
-  list_class: 'toc-list'
-  sublist_class: 'toc-sublist'
-  item_class: 'toc-list-item'
-  item_prefix: 'toc-item-'
-  item_suffix: ''
-  no_li: false
-  no_link: false
+
