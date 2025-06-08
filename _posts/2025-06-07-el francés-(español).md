@@ -3,7 +3,7 @@ layout: post
 categories: anecdote
 ---
 
-Nunca digas nunca: el francés me llegó de la nada
+<h3>Nunca digas nunca: el francés me llegó de la nada</h3>
 
 <p> La primera vez que tuve contacto con el francés fue cuando leía la novela corta de Aura de Carlos Fuentes. En un principio aparecían algunas inscripciones con una escritura complicada, las cuales leía tal cual estaban escritas.
 <p>
